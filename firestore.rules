@@ -1,0 +1,39 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+  
+    match /data/{dataId} {
+    	allow read;
+      allow write: if request.auth.token.admin == true;
+    }
+    
+    match /users/{userId} {
+    	allow read;
+    	allow create, write: if request.auth.uid != null;
+    }
+    
+    match /books/{bookName} {
+    	allow create, read;
+      allow write: if request.auth.token.admin == true;
+    }
+    
+    match /_storage/{element} {
+    	allow read, write;
+    }
+    
+    match /guides/{guideId} {
+    	allow read: if request.auth.uid != null;
+    	allow write: if request.auth.token.admin == true;
+    }
+    
+    match /cafes/{cafeId} {
+    	allow read: if request.auth.uid != null;
+    	allow write: if request.auth.token.admin == true;
+    }
+    
+    match /channels/{channelId} {
+    	allow read: if request.auth.uid != null;
+    	allow write: if request.auth.token.admin == true;
+    }
+  }
+}
