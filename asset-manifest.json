@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/easy-calc/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/easy-calc/static/js/main.7864cba2.chunk.js",
-    "main.js.map": "/easy-calc/static/js/main.7864cba2.chunk.js.map",
+    "main.js": "/easy-calc/static/js/main.26694323.chunk.js",
+    "main.js.map": "/easy-calc/static/js/main.26694323.chunk.js.map",
     "runtime-main.js": "/easy-calc/static/js/runtime-main.792bedf6.js",
     "runtime-main.js.map": "/easy-calc/static/js/runtime-main.792bedf6.js.map",
     "static/js/2.20ee97aa.chunk.js": "/easy-calc/static/js/2.20ee97aa.chunk.js",
     "static/js/2.20ee97aa.chunk.js.map": "/easy-calc/static/js/2.20ee97aa.chunk.js.map",
     "index.html": "/easy-calc/index.html",
-    "precache-manifest.7291961ab51ff1b9f8249f95e9d985d1.js": "/easy-calc/precache-manifest.7291961ab51ff1b9f8249f95e9d985d1.js",
+    "precache-manifest.3f6cfece489dc2d55575d2a550198dac.js": "/easy-calc/precache-manifest.3f6cfece489dc2d55575d2a550198dac.js",
     "service-worker.js": "/easy-calc/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/easy-calc/static/css/main.5ecd60fb.chunk.css.map",
     "static/js/2.20ee97aa.chunk.js.LICENSE.txt": "/easy-calc/static/js/2.20ee97aa.chunk.js.LICENSE.txt",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.792bedf6.js",
     "static/js/2.20ee97aa.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.7864cba2.chunk.js"
+    "static/js/main.26694323.chunk.js"
   ]
 }
