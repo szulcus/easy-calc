@@ -12,13 +12,17 @@ const Global = createGlobalStyle`
 		--color-primary: lightgray;
 		--color-secondary: gray;
 		--color-bg: #202020;
+		--color-light: white;
+		--color-dark: black;
 		box-sizing: border-box;
 		::after,
 		::before {
 			box-sizing: border-box;
 		}
 	}
+	@import url('https://fonts.googleapis.com/css?family=Oswald&display=swap');
 	body {
+		font-family: 'Oswald';
 		background-color: var(--color-bg);
 		color: var(--color-primary);
 	}
