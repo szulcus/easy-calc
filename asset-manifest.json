@@ -1,22 +1,29 @@
 {
   "files": {
     "main.css": "/easy-calc/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/easy-calc/static/js/main.6518a674.chunk.js",
-    "main.js.map": "/easy-calc/static/js/main.6518a674.chunk.js.map",
+    "main.js": "/easy-calc/static/js/main.7864cba2.chunk.js",
+    "main.js.map": "/easy-calc/static/js/main.7864cba2.chunk.js.map",
     "runtime-main.js": "/easy-calc/static/js/runtime-main.792bedf6.js",
     "runtime-main.js.map": "/easy-calc/static/js/runtime-main.792bedf6.js.map",
-    "static/js/2.a99d2516.chunk.js": "/easy-calc/static/js/2.a99d2516.chunk.js",
-    "static/js/2.a99d2516.chunk.js.map": "/easy-calc/static/js/2.a99d2516.chunk.js.map",
+    "static/js/2.20ee97aa.chunk.js": "/easy-calc/static/js/2.20ee97aa.chunk.js",
+    "static/js/2.20ee97aa.chunk.js.map": "/easy-calc/static/js/2.20ee97aa.chunk.js.map",
     "index.html": "/easy-calc/index.html",
-    "precache-manifest.c6638e10d5a33b5dbd8276ed2b00a8ad.js": "/easy-calc/precache-manifest.c6638e10d5a33b5dbd8276ed2b00a8ad.js",
+    "precache-manifest.7291961ab51ff1b9f8249f95e9d985d1.js": "/easy-calc/precache-manifest.7291961ab51ff1b9f8249f95e9d985d1.js",
     "service-worker.js": "/easy-calc/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/easy-calc/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.a99d2516.chunk.js.LICENSE.txt": "/easy-calc/static/js/2.a99d2516.chunk.js.LICENSE.txt"
+    "static/js/2.20ee97aa.chunk.js.LICENSE.txt": "/easy-calc/static/js/2.20ee97aa.chunk.js.LICENSE.txt",
+    "static/media/cancel.svg": "/easy-calc/static/media/cancel.11fb1261.svg",
+    "static/media/division.svg": "/easy-calc/static/media/division.48f47069.svg",
+    "static/media/minus.svg": "/easy-calc/static/media/minus.5dabf2dd.svg",
+    "static/media/one.svg": "/easy-calc/static/media/one.6fcaa078.svg",
+    "static/media/plus.svg": "/easy-calc/static/media/plus.11736e28.svg",
+    "static/media/three.svg": "/easy-calc/static/media/three.72d425bb.svg",
+    "static/media/two.svg": "/easy-calc/static/media/two.e5b09026.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.792bedf6.js",
-    "static/js/2.a99d2516.chunk.js",
+    "static/js/2.20ee97aa.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.6518a674.chunk.js"
+    "static/js/main.7864cba2.chunk.js"
   ]
 }
