@@ -1,11 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { createGlobalStyle } from 'styled-components'
-import './index.css';
-import App from './App';
+import Routes from './Routes'
 import * as serviceWorker from './serviceWorker';
 
 const Global = createGlobalStyle`
+	@import url('https://fonts.googleapis.com/css?family=Baloo&display=swap');
 	* {
 		--color-main: lightgreen;
 		--color-decorative: gold;
@@ -20,18 +20,26 @@ const Global = createGlobalStyle`
 			box-sizing: border-box;
 		}
 	}
-	@import url('https://fonts.googleapis.com/css?family=Oswald&display=swap');
 	body {
-		font-family: 'Oswald';
+		font-family: 'Baloo', sans-serif;
 		background-color: var(--color-bg);
 		color: var(--color-primary);
+		width: 100vw;
+		height: 100vh;
+		margin: 0;
+	}
+	button {
+		font-family: 'Baloo', sans-serif;
+		:focus {
+			outline: none;
+		}
 	}
 `
 
 ReactDOM.render(
 	<>
 		<Global />
-		<App />
+		<Routes />
 	</>,
 	document.getElementById('root')
 );
