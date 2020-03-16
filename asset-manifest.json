@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/easy-calc/static/css/main.544d7855.chunk.css",
-    "main.js": "/easy-calc/static/js/main.5ee2c22e.chunk.js",
-    "main.js.map": "/easy-calc/static/js/main.5ee2c22e.chunk.js.map",
+    "main.js": "/easy-calc/static/js/main.8ef25313.chunk.js",
+    "main.js.map": "/easy-calc/static/js/main.8ef25313.chunk.js.map",
     "runtime-main.js": "/easy-calc/static/js/runtime-main.792bedf6.js",
     "runtime-main.js.map": "/easy-calc/static/js/runtime-main.792bedf6.js.map",
-    "static/js/2.ded2f358.chunk.js": "/easy-calc/static/js/2.ded2f358.chunk.js",
-    "static/js/2.ded2f358.chunk.js.map": "/easy-calc/static/js/2.ded2f358.chunk.js.map",
+    "static/js/2.2b3064c2.chunk.js": "/easy-calc/static/js/2.2b3064c2.chunk.js",
+    "static/js/2.2b3064c2.chunk.js.map": "/easy-calc/static/js/2.2b3064c2.chunk.js.map",
     "index.html": "/easy-calc/index.html",
-    "precache-manifest.854688805e150ac223d231912f7a02e6.js": "/easy-calc/precache-manifest.854688805e150ac223d231912f7a02e6.js",
+    "precache-manifest.d2c6415f47b32cf419f272824c01b52d.js": "/easy-calc/precache-manifest.d2c6415f47b32cf419f272824c01b52d.js",
     "service-worker.js": "/easy-calc/service-worker.js",
     "static/css/main.544d7855.chunk.css.map": "/easy-calc/static/css/main.544d7855.chunk.css.map",
-    "static/js/2.ded2f358.chunk.js.LICENSE.txt": "/easy-calc/static/js/2.ded2f358.chunk.js.LICENSE.txt",
+    "static/js/2.2b3064c2.chunk.js.LICENSE.txt": "/easy-calc/static/js/2.2b3064c2.chunk.js.LICENSE.txt",
     "static/media/cancel.svg": "/easy-calc/static/media/cancel.11fb1261.svg",
     "static/media/division.svg": "/easy-calc/static/media/division.48f47069.svg",
     "static/media/hello.png": "/easy-calc/static/media/hello.22d09fa8.png",
@@ -23,8 +23,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.792bedf6.js",
-    "static/js/2.ded2f358.chunk.js",
+    "static/js/2.2b3064c2.chunk.js",
     "static/css/main.544d7855.chunk.css",
-    "static/js/main.5ee2c22e.chunk.js"
+    "static/js/main.8ef25313.chunk.js"
   ]
 }
