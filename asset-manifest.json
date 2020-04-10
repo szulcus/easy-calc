@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/easy-calc/static/css/main.09917cee.chunk.css",
-    "main.js": "/easy-calc/static/js/main.dcc84152.chunk.js",
-    "main.js.map": "/easy-calc/static/js/main.dcc84152.chunk.js.map",
+    "main.js": "/easy-calc/static/js/main.10f20d3d.chunk.js",
+    "main.js.map": "/easy-calc/static/js/main.10f20d3d.chunk.js.map",
     "runtime-main.js": "/easy-calc/static/js/runtime-main.792bedf6.js",
     "runtime-main.js.map": "/easy-calc/static/js/runtime-main.792bedf6.js.map",
-    "static/js/2.47964cb6.chunk.js": "/easy-calc/static/js/2.47964cb6.chunk.js",
-    "static/js/2.47964cb6.chunk.js.map": "/easy-calc/static/js/2.47964cb6.chunk.js.map",
+    "static/js/2.bc6975aa.chunk.js": "/easy-calc/static/js/2.bc6975aa.chunk.js",
+    "static/js/2.bc6975aa.chunk.js.map": "/easy-calc/static/js/2.bc6975aa.chunk.js.map",
     "index.html": "/easy-calc/index.html",
-    "precache-manifest.764e3a560962af6a22a8bc23270c89d7.js": "/easy-calc/precache-manifest.764e3a560962af6a22a8bc23270c89d7.js",
+    "precache-manifest.550082e616236df1554280a42cd0e44f.js": "/easy-calc/precache-manifest.550082e616236df1554280a42cd0e44f.js",
     "service-worker.js": "/easy-calc/service-worker.js",
     "static/css/main.09917cee.chunk.css.map": "/easy-calc/static/css/main.09917cee.chunk.css.map",
-    "static/js/2.47964cb6.chunk.js.LICENSE.txt": "/easy-calc/static/js/2.47964cb6.chunk.js.LICENSE.txt",
+    "static/js/2.bc6975aa.chunk.js.LICENSE.txt": "/easy-calc/static/js/2.bc6975aa.chunk.js.LICENSE.txt",
     "static/media/cancel.svg": "/easy-calc/static/media/cancel.11fb1261.svg",
     "static/media/division.svg": "/easy-calc/static/media/division.48f47069.svg",
     "static/media/hello.png": "/easy-calc/static/media/hello.22d09fa8.png",
@@ -22,13 +22,12 @@
     "static/media/plus.svg": "/easy-calc/static/media/plus.11736e28.svg",
     "static/media/scroll.svg": "/easy-calc/static/media/scroll.3241e4b6.svg",
     "static/media/three.svg": "/easy-calc/static/media/three.72d425bb.svg",
-    "static/media/two.svg": "/easy-calc/static/media/two.e5b09026.svg",
-    "static/media/vector-logo.svg": "/easy-calc/static/media/vector-logo.48afcc4c.svg"
+    "static/media/two.svg": "/easy-calc/static/media/two.e5b09026.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.792bedf6.js",
-    "static/js/2.47964cb6.chunk.js",
+    "static/js/2.bc6975aa.chunk.js",
     "static/css/main.09917cee.chunk.css",
-    "static/js/main.dcc84152.chunk.js"
+    "static/js/main.10f20d3d.chunk.js"
   ]
 }
