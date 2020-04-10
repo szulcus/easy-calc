@@ -1,33 +1,34 @@
 {
   "files": {
-    "main.css": "/easy-calc/static/css/main.918d1382.chunk.css",
-    "main.js": "/easy-calc/static/js/main.e9b4d8a0.chunk.js",
-    "main.js.map": "/easy-calc/static/js/main.e9b4d8a0.chunk.js.map",
+    "main.css": "/easy-calc/static/css/main.09917cee.chunk.css",
+    "main.js": "/easy-calc/static/js/main.dcc84152.chunk.js",
+    "main.js.map": "/easy-calc/static/js/main.dcc84152.chunk.js.map",
     "runtime-main.js": "/easy-calc/static/js/runtime-main.792bedf6.js",
     "runtime-main.js.map": "/easy-calc/static/js/runtime-main.792bedf6.js.map",
-    "static/js/2.bb245def.chunk.js": "/easy-calc/static/js/2.bb245def.chunk.js",
-    "static/js/2.bb245def.chunk.js.map": "/easy-calc/static/js/2.bb245def.chunk.js.map",
+    "static/js/2.47964cb6.chunk.js": "/easy-calc/static/js/2.47964cb6.chunk.js",
+    "static/js/2.47964cb6.chunk.js.map": "/easy-calc/static/js/2.47964cb6.chunk.js.map",
     "index.html": "/easy-calc/index.html",
-    "precache-manifest.e175755afae1be1b3047632047f3f0ed.js": "/easy-calc/precache-manifest.e175755afae1be1b3047632047f3f0ed.js",
+    "precache-manifest.764e3a560962af6a22a8bc23270c89d7.js": "/easy-calc/precache-manifest.764e3a560962af6a22a8bc23270c89d7.js",
     "service-worker.js": "/easy-calc/service-worker.js",
-    "static/css/main.918d1382.chunk.css.map": "/easy-calc/static/css/main.918d1382.chunk.css.map",
-    "static/js/2.bb245def.chunk.js.LICENSE.txt": "/easy-calc/static/js/2.bb245def.chunk.js.LICENSE.txt",
+    "static/css/main.09917cee.chunk.css.map": "/easy-calc/static/css/main.09917cee.chunk.css.map",
+    "static/js/2.47964cb6.chunk.js.LICENSE.txt": "/easy-calc/static/js/2.47964cb6.chunk.js.LICENSE.txt",
     "static/media/cancel.svg": "/easy-calc/static/media/cancel.11fb1261.svg",
     "static/media/division.svg": "/easy-calc/static/media/division.48f47069.svg",
     "static/media/hello.png": "/easy-calc/static/media/hello.22d09fa8.png",
-    "static/media/left-arrow.svg": "/easy-calc/static/media/left-arrow.1584f273.svg",
     "static/media/loader.svg": "/easy-calc/static/media/loader.b493f4c5.svg",
+    "static/media/logo.png": "/easy-calc/static/media/logo.19552b4f.png",
     "static/media/minus.svg": "/easy-calc/static/media/minus.5dabf2dd.svg",
     "static/media/one.svg": "/easy-calc/static/media/one.6fcaa078.svg",
     "static/media/plus.svg": "/easy-calc/static/media/plus.11736e28.svg",
-    "static/media/right-arrow.svg": "/easy-calc/static/media/right-arrow.c357d125.svg",
+    "static/media/scroll.svg": "/easy-calc/static/media/scroll.3241e4b6.svg",
     "static/media/three.svg": "/easy-calc/static/media/three.72d425bb.svg",
-    "static/media/two.svg": "/easy-calc/static/media/two.e5b09026.svg"
+    "static/media/two.svg": "/easy-calc/static/media/two.e5b09026.svg",
+    "static/media/vector-logo.svg": "/easy-calc/static/media/vector-logo.48afcc4c.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.792bedf6.js",
-    "static/js/2.bb245def.chunk.js",
-    "static/css/main.918d1382.chunk.css",
-    "static/js/main.e9b4d8a0.chunk.js"
+    "static/js/2.47964cb6.chunk.js",
+    "static/css/main.09917cee.chunk.css",
+    "static/js/main.dcc84152.chunk.js"
   ]
 }
