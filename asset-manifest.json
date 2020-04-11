@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/easy-calc/static/css/main.09917cee.chunk.css",
-    "main.js": "/easy-calc/static/js/main.10f20d3d.chunk.js",
-    "main.js.map": "/easy-calc/static/js/main.10f20d3d.chunk.js.map",
+    "main.js": "/easy-calc/static/js/main.7b811e6e.chunk.js",
+    "main.js.map": "/easy-calc/static/js/main.7b811e6e.chunk.js.map",
     "runtime-main.js": "/easy-calc/static/js/runtime-main.792bedf6.js",
     "runtime-main.js.map": "/easy-calc/static/js/runtime-main.792bedf6.js.map",
-    "static/js/2.bc6975aa.chunk.js": "/easy-calc/static/js/2.bc6975aa.chunk.js",
-    "static/js/2.bc6975aa.chunk.js.map": "/easy-calc/static/js/2.bc6975aa.chunk.js.map",
+    "static/js/2.44d12b70.chunk.js": "/easy-calc/static/js/2.44d12b70.chunk.js",
+    "static/js/2.44d12b70.chunk.js.map": "/easy-calc/static/js/2.44d12b70.chunk.js.map",
     "index.html": "/easy-calc/index.html",
-    "precache-manifest.ffa34ab0417e1f6f45d8300e4c83e871.js": "/easy-calc/precache-manifest.ffa34ab0417e1f6f45d8300e4c83e871.js",
+    "precache-manifest.0d87245e875cc04589390f8a703a2d9d.js": "/easy-calc/precache-manifest.0d87245e875cc04589390f8a703a2d9d.js",
     "service-worker.js": "/easy-calc/service-worker.js",
     "static/css/main.09917cee.chunk.css.map": "/easy-calc/static/css/main.09917cee.chunk.css.map",
-    "static/js/2.bc6975aa.chunk.js.LICENSE.txt": "/easy-calc/static/js/2.bc6975aa.chunk.js.LICENSE.txt",
+    "static/js/2.44d12b70.chunk.js.LICENSE.txt": "/easy-calc/static/js/2.44d12b70.chunk.js.LICENSE.txt",
     "static/media/cancel.svg": "/easy-calc/static/media/cancel.11fb1261.svg",
     "static/media/division.svg": "/easy-calc/static/media/division.48f47069.svg",
     "static/media/hello.png": "/easy-calc/static/media/hello.22d09fa8.png",
@@ -26,8 +26,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.792bedf6.js",
-    "static/js/2.bc6975aa.chunk.js",
+    "static/js/2.44d12b70.chunk.js",
     "static/css/main.09917cee.chunk.css",
-    "static/js/main.10f20d3d.chunk.js"
+    "static/js/main.7b811e6e.chunk.js"
   ]
 }
